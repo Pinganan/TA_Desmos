@@ -1,5 +1,5 @@
 # [Desmos Contest](https://www.desmos.com/art?lang=zh-TW)
-當AI助教出這份作業時
+當AI助教出這份作業時，目的有以下
 1. 團體作業
 2. 學會許多數學函示
 3. 單純有趣<~~出這作業好有趣~~>
