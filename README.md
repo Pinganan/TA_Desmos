@@ -1,5 +1,7 @@
 # Desmos作業
-當AI助教出的作業~~出這作業好有趣~~
+當AI助教出的作業
+
+~~出這作業好有趣~~
 
 
 [數學藝術競賽](https://www.desmos.com/art?lang=zh-TW)
