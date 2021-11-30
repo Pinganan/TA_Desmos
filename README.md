@@ -1,12 +1,10 @@
-# Desmos作業
+# [Desmos Contest](https://www.desmos.com/art?lang=zh-TW)
 當AI助教出的作業
 
 ~~出這作業好有趣~~
 
-
-[數學藝術競賽](https://www.desmos.com/art?lang=zh-TW)
-
 --- 
+
 
 ### [鐵塔](https://www.desmos.com/calculator/7ntlecpr90?lang=zh-TW)
 #### 組員： `張卉晴` 、 `陳又瑜` 、 `李曉昀`
