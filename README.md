@@ -19,3 +19,12 @@
 
 ## [水母](https://www.desmos.com/calculator/ug3kz8bhza?lang=zh-TW)
 #### 組員： `張宏立`、`陳駿瑋`、`林信廷`、`葉哲愷`、`廖虹凱`
+
+## [點子](https://www.desmos.com/calculator/lhidahci9a?lang=zh-TW)
+#### 組員： `陳威仁`、`林立宬`、`謝翔宇`、`許銘洋`、`張柏彥`、`熊奕傑`
+
+## [塔](https://www.desmos.com/calculator/nbefzkmold?lang=zh-TW)
+#### 組員： `羅竹言`、`曾祥澤`、`吳志傑`
+
+## [蝶](https://www.desmos.com/calculator/eandhll3wi?lang=zh-TW)
+#### 組員： `吳宗諺`、`陳永嘉`、`洪郁盛`、`廖之祺`
